@@ -1,24 +1,24 @@
-# WELSH-Founder Hunter 🔍
+# WELSH-Founder Hunter 🔍 - Enhanced Edition
 
-**Autonomous blockchain forensics agent for identifying WELSH token founder through wallet clustering and cross-chain analysis**
+**Autonomous blockchain forensics agent utilizing comprehensive Hiro API capabilities for identifying WELSH token founder through advanced wallet clustering and cross-chain analysis**
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Hiro API](https://img.shields.io/badge/Hiro_API-Enhanced-blue.svg)](https://www.hiro.so/)
 [![Docker](https://img.shields.io/badge/docker-ready-blue.svg)](https://www.docker.com/)
 
 ## Overview
-
+WELSH-Founder Hunter is a production-ready blockchain forensics agent designed to autonomously investigate and identify the founder of the WELSH token through sophisticated wallet clustering, comprehensive transaction analysis, and advanced cross-platform correlation techniques utilizing every available Hiro API endpoint.
 WELSH-Founder Hunter is a production-ready blockchain forensics agent designed to autonomously investigate and identify the founder of the WELSH token through sophisticated wallet clustering, transaction analysis, and cross-platform correlation techniques.
 
 ## Key Features
-
-- **🤖 Fully Autonomous**: 8-phase state machine requiring zero human intervention
-- **🔍 Advanced Forensics**: Wallet clustering with 4 sophisticated heuristics
-- **📊 Evidence Scoring**: Weighted scoring system (70%+ = "Probable founder")
-- **🔗 Cross-Chain Analysis**: Stacks blockchain + off-chain correlation
-- **⚖️ Legal Ready**: Subpoena template generation and compliance features
-- **🔒 Security First**: Read-only design, no signing privileges required
-
+- **🤖 Fully Autonomous**: 8-phase state machine with comprehensive Hiro API utilization
+- **🔍 Advanced Forensics**: Multi-layered analysis using 15+ Hiro API endpoints
+- **📊 Enhanced Evidence Scoring**: Advanced correlation algorithms (80%+ = "Probable founder")
+- **🌐 Comprehensive API Coverage**: Utilizes contracts, transactions, addresses, blocks, mempool, and network APIs
+- **⚡ Intelligent Rate Limiting**: 5000 req/hour with API key, automatic failover
+- **🔗 Deep Pattern Analysis**: Advanced behavioral, temporal, and correlation analysis
+- **⚖️ Legal Ready**: Blockchain-verifiable evidence with comprehensive audit trails
+- **🔒 Security First**: Read-only design with multi-endpoint redundancy
 ## Mission Phases
 
 | Phase | Objective | Autonomous Actions |
