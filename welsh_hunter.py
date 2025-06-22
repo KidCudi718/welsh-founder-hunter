@@ -1,5 +1,5 @@
-# WELSH-Founder Hunter AI Agent
-# Production-ready blockchain forensics agent for Stacks ecosystem
+# Enhanced WELSH-Founder Hunter AI Agent - Comprehensive Hiro API Utilization
+# Production-ready blockchain forensics agent utilizing every possible Hiro API option
 
 import json
 import requests
